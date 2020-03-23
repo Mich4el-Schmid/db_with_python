@@ -1,1 +1,4 @@
-Zwei Datenbanken: eine für die Accounts die andere für die Umfrage
+Mit dem tkinter inteface ist möglich Einträge in eine Datenbank zu speichern,
+diese zu löschen und verändern.
+
+Mit der ID 
